@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "lib": [
+            "esnext"
+        ],
+        "outDir": "dist",
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "experimentalDecorators": true
+    }
+}

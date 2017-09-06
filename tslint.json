@@ -1,0 +1,20 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "arrow-parens": false,
+        "variable-name": ["allow-leading-underscore"],
+        "interface-name": ["never-prefix"],
+        "curly": false,
+        "quotemark": [
+            "single"
+        ],
+        "object-literal-sort-keys": false,
+        "class-name": false,
+        "member-access": ["no-public"]
+    },
+    "rulesDirectory": []
+}
